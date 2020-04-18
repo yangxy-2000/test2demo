@@ -11,6 +11,8 @@ public class Testgit1Application {
         SpringApplication.run(Testgit1Application.class, args);
 
         System.out.println("abcde");
+
+        System.out.println("edcba");
     }
 
 }
